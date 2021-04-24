@@ -13,7 +13,8 @@ The product goal is to provide a fully equipped system that contains a set of fe
 ![SI Prototype](https://user-images.githubusercontent.com/49848214/115949216-8734b380-a4a1-11eb-9472-d6cd324829b7.gif)
  - Home page
 
-![Home page](https://user-images.githubusercontent.com/49848214/115949055-2658ab80-a4a0-11eb-83c3-3c8185cf048f.jpg)
+![Home page](https://user-images.githubusercontent.com/49848214/115962770-e0750500-a4ea-11eb-8ed6-de8aab9e9210.jpg)
+
  - Services page
 
 ![Services page](https://user-images.githubusercontent.com/49848214/115949251-c06d2380-a4a1-11eb-8d4c-4e2c0c4456c5.jpg)
