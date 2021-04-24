@@ -22,7 +22,7 @@ The product goal is to provide a fully equipped system that contains a set of fe
 
 ![Team page](https://user-images.githubusercontent.com/49848214/115949262-d4188a00-a4a1-11eb-920f-a2d28273723b.jpg)
 
- - Create Production Log Screen
+ - Team bio
 
 ![Team bio](https://user-images.githubusercontent.com/49848214/115949266-df6bb580-a4a1-11eb-885a-cc1f5805c046.jpg)
 
@@ -67,6 +67,8 @@ The product goal is to provide a fully equipped system that contains a set of fe
  - Jaysson Balbuena
 
 ## License
+
+[License](https://github.com/jayssonbf/Salon-Inspiration/blob/main/LICENSE)
 
 ## Acknowledgments
 	Web sites utilized:
