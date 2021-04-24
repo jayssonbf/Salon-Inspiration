@@ -9,7 +9,7 @@ The product goal is to provide a fully equipped system that contains a set of fe
 
 
  
-## Demonstration
+## Prototype
 ![SI Prototype](https://user-images.githubusercontent.com/49848214/115949216-8734b380-a4a1-11eb-9472-d6cd324829b7.gif)
  - Home page
 
