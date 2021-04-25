@@ -1,5 +1,18 @@
-# Salon Inspiration Management System
+# Software Requirements Engineering 
+- Project's goal
 
+The goal of this project was to find a sponsor who wanted to participate in the development of a system for his/her business. The sponsor was asked to provide a set of business requirements to complete multiple artifacts or requirements documentation which will then be used to start the software design process/phase. The requirements documentation that were created are listed below:
+
+	Business Requirements Specification (BRS)
+	Software Requirements Specification (SRS)
+	Software Requirements Document (SRD)
+	Requirements Elicitation
+	Requirements Analysis
+	Requirements Specification
+	Requirements Validation
+
+
+- Business's purpose
 
 Salon Inspiration is a full-service beauty salon dedicated to consistently providing high customer satisfaction by rendering excellent service, quality products, and furnishing an enjoyable atmosphere at an acceptable price/value relationship. We maintain a friendly, fair, and creative work environment, which respects diversity, ideas, and hard work.
 
