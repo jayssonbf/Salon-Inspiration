@@ -74,7 +74,8 @@ The product goal is to provide a fully equipped system that contains a set of fe
 
 ## Built With
 
- - Adobe XD
+- Jira software 
+- Adobe XD
 
 ## Contributing
 
