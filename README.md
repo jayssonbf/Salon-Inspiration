@@ -1,4 +1,4 @@
-# Project's Description
+# Project Description
 - Project's goal
 
 The goal of this project was to find a sponsor who wanted to participate in the development of a system for his/her business. The sponsor was asked to provide a set of business requirements to complete multiple artifacts or requirements documentation which will then be used to start the software design process/phase. The requirements documentation that were created are listed below:
